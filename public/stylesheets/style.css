@@ -1,12 +1,12 @@
 body{
   font-family: sans-serif; 
-  background-color: #6e9e41; 
+  background-color: #00FFFF; 
   box-sizing: border-box;
 }
  
 form{
    background-color: rgb(224, 223, 223);
-   border-radius: 10px;
+   border-radius: 15px;
    color: rgb(255, 255, 255);
    font-size: 14px;
    padding: 20px;
